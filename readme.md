@@ -1,6 +1,6 @@
-# DS24 Open Lab | Hands-On with Custom Vision AI Object Detection for CAD Images using Azure Service
+# DS24 Open Lab | Hands-On with Custom Vision AI Object Detection for Vehicle Images using Azure Service
 
-This repository contains the lab for demonstrating Hands-On with Custom Vision AI Object Detection for CAD Images using Azure Service. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating Hands-On with Custom Vision AI Object Detection for Vehicle Images using Azure Service. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
